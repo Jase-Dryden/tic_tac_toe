@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace MyApp
 {
     internal class Program
     {   
